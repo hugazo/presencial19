@@ -1,3 +1,4 @@
+# No comment
 class MiClase
   attr_accessor :name
   def initialize(name)
